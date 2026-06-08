@@ -1,0 +1,5 @@
+WiFi – for wireless communication  
+HTTP – for control commands  
+MJPEG – for video streaming  
+PWM – for motor & servo control  
+GPIO – for hardware interfacing  
